@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/UserLocate/TTCUserLocateViewControllerViewModel.m \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/UserLocate/TTCUserLocateViewControllerViewModel.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/UserLocate/TTCUserLocateViewControllerModel.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/UserLocate/TTCUserLocateViewControllerOutputModel.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/UserLocate/TTCUserLocateViewControllerOutputAddrsModel.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/UserLocate/TTCUserLocateViewControllerOutputAddrsPermarksModel.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/UserLocate/TTCUserLocateViewControllerOutputAddrsPermarksServsModel.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/UserLocate/TTCUserLocateViewControllerBalanceModel.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/UserLocate/TTCUserLocateViewControllerBalanceOutputModel.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/UserLocate/TTCUserLocateViewControllerBalanceOutputFeebooksModel.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/UserLocate/TTCUserLocateViewControllerArrearModel.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/UserLocate/TTCUserLocateViewControllerArrearOutputModel.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/UserLocate/TTCUserLocateViewControllerArrearOutputArreardetsModel.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/UserLocate/TTCUserLocateViewControllerUserProductModel.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/UserLocate/TTCUserLocateViewControllerUserProductOutputModel.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/UserLocate/TTCUserLocateViewControllerUserProductOutputProsModel.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/Print/TTCPrintViewControllerModel.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/Print/TTCPrintViewControllerViewOutputModel.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/Print/TTCPrintViewControllerViewOutputUnprintinvinfosModel.h

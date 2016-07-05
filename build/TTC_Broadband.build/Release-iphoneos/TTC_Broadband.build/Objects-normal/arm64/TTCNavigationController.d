@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/Navigation/TTCNavigationController.m \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/Navigation/TTCNavigationController.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Extend/Tool/KKNavigationController/KKNavigationController.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/OrderRecord/TTCOrderRecordViewController.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/Parent/TTCParentViewController.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/Tabar/TTCTabbarController.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/UserLocate/TTCUserLocateViewController.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/AppDelegate.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/Message/TTCMessageViewController.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/ModifiedData/TTCModifiedDataViewController.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/SellCount/TTCSellCountViewController.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/Rank/TTCRankViewController.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/Navigation/TTCFirstPageTypeBar.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/Navigation/TTCUserLocateBar.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/Navigation/TTCProductLibBar.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/Navigation/TTCProductDetailBar.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/Navigation/TTCUserDetailBar.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/Navigation/TTCShoppingCarBar.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/Navigation/TTCMeBar.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/Navigation/TTCAccountInfoBar.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/Navigation/TTCSellCountBar.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/Navigation/TTCSellDetailMonthBar.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/Navigation/TTCSellDetailDayBar.h \
+  /Users/apple/Desktop/诚毅项目/TTC_Broadband-master/TTC_Broadband/Main/Navigation/TTCOrderRecordBar.h

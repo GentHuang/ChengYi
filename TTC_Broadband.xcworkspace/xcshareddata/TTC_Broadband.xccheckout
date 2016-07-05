@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5B0CB29A-26B7-45F3-8F28-DF98DA576187</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TTC_Broadband</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>77DF4CB1923110A5D1CDB21F3F80DBF2396D37B6</key>
+		<string>https://github.com/zzl493743016/TTC_Broadband.git</string>
+		<key>7B58AE4496A61A18C285AF9C662D0E0538B628CE</key>
+		<string>https://github.com/zzl493743016/TTC_Broadband.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TTC_Broadband.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>77DF4CB1923110A5D1CDB21F3F80DBF2396D37B6</key>
+		<string>..</string>
+		<key>7B58AE4496A61A18C285AF9C662D0E0538B628CE</key>
+		<string>../../TTC_Broadband</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/zzl493743016/TTC_Broadband.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>77DF4CB1923110A5D1CDB21F3F80DBF2396D37B6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7B58AE4496A61A18C285AF9C662D0E0538B628CE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TTC_Broadband</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>77DF4CB1923110A5D1CDB21F3F80DBF2396D37B6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TTC_Broadband-master</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,7 @@
+platform :ios,'7.0'
+pod 'SDWebImage'
+pod 'MBProgressHUD'
+pod 'FMDB'
+pod 'Masonry'
+pod 'AFNetworking'
+pod 'MJRefresh'
